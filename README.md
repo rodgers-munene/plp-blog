@@ -77,7 +77,7 @@ The website is deployed using **Github pages**. You can deploy it using any plat
 
 ## Live Demo
 You can view the live demo of the website here:  
-[My Blog Live Demo](https://my-blog-demo.netlify.app)
+[My Blog Live Demo](https://rodgers-munene.github.io/plp-blog/)
 
 ---
 
