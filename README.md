@@ -8,7 +8,7 @@ This project is a **multipage blog website** designed to showcase skills in HTML
 ## Features
 - **Home Page**:
   - Displays a list of blog posts with images, titles, and short descriptions.
-  - Each post has a "Read More" button (placeholder link).
+  - Each post has a "Read More" button.
 - **About Page**:
   - Provides information about the blog author.
   - Includes a profile picture and a short bio.
